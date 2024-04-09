@@ -17,8 +17,8 @@ Usage
 To run the analysis, you can use the Jupyter notebooks in the notebooks/ directory. The notebooks are organized by topic and cover different aspects of the Nobel Prize dataset.
 
 # Questions Explored
-Top Gender: Analyze the gender distribution of Nobel laureates and determine the most frequent gender among winners.
-Top Country: Determine which country has the most Nobel Prize winners.
+Top Gender: Analyze the gender distribution of Nobel laureates and determine the most frequent gender among winners./
+Top Country: Determine which country has the most Nobel Prize winners./
 Decade with the most American winners: Identify the decade with the highest number of American Nobel Prize winners.
 Decade and category with the most female winners: Determine the decade and category that had the highest number of female Nobel Prize winners.
 First woman (and category) to win the award: Identify the first woman to win a Nobel Prize and the category in which she won.
